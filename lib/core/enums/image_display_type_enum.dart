@@ -1,0 +1,6 @@
+enum ImageDisplayTypeEnum {
+  backgound,
+  circleAvatar;
+
+  
+}
